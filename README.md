@@ -1,6 +1,6 @@
 # Investigate-a-Dataset
 
-Udacity Data Analytics Nanodegree December 2017 - May 2018 
+Udacity Data Analytics Nanodegree April 2021 - May 2021 
 Project 3 - Exploring Gapminder Datasets using Python and Jupyter Notebook
 [Click to preview](http://htmlpreview.github.io/?https://github.com/latinacode/Investigate-a-Dataset/blob/master/investigate-a-dataset-Socio-demographic-variables-resubmit.html)
 
